@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BynarySearch", "BynarySearch\BynarySearch.csproj", "{182B150B-65C7-4FF6-AFD9-4E1E47BBA453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182B150B-65C7-4FF6-AFD9-4E1E47BBA453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182B150B-65C7-4FF6-AFD9-4E1E47BBA453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182B150B-65C7-4FF6-AFD9-4E1E47BBA453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182B150B-65C7-4FF6-AFD9-4E1E47BBA453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
